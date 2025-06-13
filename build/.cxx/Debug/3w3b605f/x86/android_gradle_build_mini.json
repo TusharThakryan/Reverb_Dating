@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/darshikasaxena/Downloads/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/darshikasaxena/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/darshikasaxena/Developer/myreverb/build/.cxx/Debug/3w3b605f/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/darshikasaxena/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/darshikasaxena/Developer/myreverb/build/.cxx/Debug/3w3b605f/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
